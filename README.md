@@ -1,4 +1,4 @@
-This is a rock paper scissors game
+[This is a rock paper scissors game](https://netraveler.github.io/rockPaperScissors)
 
 10-15-2021
 Added UI with event listeners and modified javascript to feed info better to functions
